@@ -3,3 +3,5 @@ lectures/
 venv/
 
 *.csv
+
+__pycache__
